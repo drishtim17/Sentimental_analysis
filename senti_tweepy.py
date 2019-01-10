@@ -19,14 +19,14 @@ import pyaudio
 # Twitter App access keys for @user
 
 # Consume:
-CONSUMER_KEY    = 'zumHggorhcsaUjFtZo4cfjf3y'
-CONSUMER_SECRET = 'fwtNObwo2SYGgEubW5uV5IWA2nbPhYzTAA4lnNehfP0uKIbE7c'
+CONSUMER_KEY    = ''
+CONSUMER_SECRET = ''
 
 app_only_auth: True
 
 # Access:
-ACCESS_TOKEN  = '897488518074605568-OShUHypCKadYJaP1AHaw3JGojUI7AvU'
-ACCESS_SECRET = 'SCPDyAmNbArGYyUU4LJYtAv7kfC5cOsfDnv2vIv84UeOb'
+ACCESS_TOKEN  = ''
+ACCESS_SECRET = ''
 
 #API's setup:
 def twitter_setup():
